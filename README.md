@@ -98,6 +98,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Crawlbase MCP](https://github.com/crawlbase/crawlbase-mcp)** - Enables AI agents to access real-time web data with HTML, markdown, and screenshot support. SDKs: Node.js, Python, Java, PHP, .NET.
 - **[Cua](https://github.com/trycua/cua/tree/main/libs/mcp-server)** - MCP server for the Computer-Use Agent (CUA), allowing you to run CUA through Claude Desktop or other MCP clients.
 - **[Currents](https://github.com/currents-dev/currents-mcp)** - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
+- **[CyberChef MCP](https://github.com/noor202401938-netizen/cyber-chef-mcp)** - The Cyber Swiss Army Knife for AI agents: 500+ data transformations, ciphers, hashing, JWT decoding, Shannon entropy, and multi-layer payload deobfuscation.
 - **[Cycode](https://github.com/cycodehq/cycode-cli#mcp-command-experiment)** - Boost security in your dev lifecycle via SAST, SCA, Secrets & IaC scanning with [Cycode](https://cycode.com/).
 - **[DAISYS](https://github.com/daisys-ai/daisys-mcp)** - Generate high-quality text-to-speech and text-to-voice outputs using the [DAISYS](https://www.daisys.ai/) platform.
 - **[Dart](https://github.com/its-dart/dart-mcp-server)** - Interact with task, doc, and project data in [Dart](https://itsdart.com), an AI-native project management tool
